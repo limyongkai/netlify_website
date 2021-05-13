@@ -36,11 +36,11 @@ skill:
 experience:
   enable: true
   item:
-    - logo: https://www.moh.gov.sg/images/librariesprovider5/default-album/moh-logo-transparentb55b5ba4623b40ca92766ad149d7025e.tmb-small.png?sfvrsn=bce7aafe_1
+    - logo: https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/MOH_Logo.svg/1200px-MOH_Logo.svg.png
       title: Ministry of Health
       company: Data Analyst Intern
       duration: May 2021 - Current
-    - logo: https://sieuthitudong.files.wordpress.com/2014/07/logo-schunk_11.png
+    - logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_Schunk.svg/1200px-Logo_Schunk.svg.png
       title: Schunk Intec 
       company: Senior Technical and Sales Engineer
       duration: Aug 2018 - Mar 2021

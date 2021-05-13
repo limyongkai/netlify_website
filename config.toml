@@ -1,6 +1,6 @@
 theme = "hugo-developer-portfolio"
 # Base information
-baseURL = "https://github.com/limyongkai/ykblog.git"
+baseURL = "https://limyongkai.netlify.app/"
 publishDir = "docs"
 languageCode = "en-gb"
 title = "Lim Yong Kai"
