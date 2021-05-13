@@ -1,0 +1,85 @@
+---
+banner:
+  title: Hi! I’m Yong Kai 
+social:
+  twitter: ""
+  linkedin: yong-kai-lim-a72742137
+  github: limyongkai
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: limyongkai
+about:
+  enable: true
+  content: Master of IT in Business student at Singapore Management University
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: R
+      logo: https://devopedia.org/images/article/45/8328.1526292163.svg
+      description: Experienced with data wrangling and visualisations using Tidyverse, ggplot2 libraries
+    - title: Python
+      logo: https://logodownload.org/wp-content/uploads/2019/10/python-logo.png
+      description: Learning the language. Know numpy, pandas, seaborn and visualisation libraries
+    - title: Tablaeu
+      logo: https://cdn.worldvectorlogo.com/logos/tableau-software.svg
+      description: Learning to plot interactive dashboards
+    - title: SAS JMP Pro
+      logo: http://meetings2.informs.org/wordpress/analytics2020/files/2020/04/JMP-logo-web.jpg
+      description: Experienced with data wrangling, visualisation, EDA and CDA, clustering techniques and time series analysis
+    - title: SAS Enterprise Miner
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/250px-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png
+      description: Experienced with dynamic time warping clustering techniques and predictive analytics using regression and recrusive partitioning models 
+experience:
+  enable: true
+  item:
+    - logo: https://www.moh.gov.sg/images/librariesprovider5/default-album/moh-logo-transparentb55b5ba4623b40ca92766ad149d7025e.tmb-small.png?sfvrsn=bce7aafe_1
+      title: Ministry of Health
+      company: Data Analyst Intern
+      duration: May 2021 - Current
+    - logo: https://sieuthitudong.files.wordpress.com/2014/07/logo-schunk_11.png
+      title: Schunk Intec 
+      company: Senior Technical and Sales Engineer
+      duration: Aug 2018 - Mar 2021
+    - logo: https://media-exp1.licdn.com/dms/image/C510BAQHO8XqyHyJFIw/company-logo_200_200/0/1530842623733?e=1628726400&v=beta&t=ZRo-Eyrg3p--ImftEgCmoKNozF2D4d7eB63j3GShjPc
+      title: Carrier Transicold
+      company: Engineer
+      duration: Jan 2017 - Jul 2018
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+certifications:
+  enable: false
+  item:
+    - title: Microsoft Azure Fundamentals
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
+      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+education:
+  enable: true
+  item:
+    - title: Master of IT in Business (Analytics Track)
+      year: Jan 2021 - Present
+      academy: Singapore Management University
+      image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGv3Claw1h7MzQtGC7Y1un_nfrM9cCE-hLGw&usqp=CAU
+    - title: Bachelor of Engineering in Mechanical Engineering
+      year: Aug 2013 - Dec 2016
+      academy: Nanyang Technological University
+      image: https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nanyang_Technological_University_coat_of_arms_vector.svg/1200px-Nanyang_Technological_University_coat_of_arms_vector.svg.png
+leadership:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
+      title: Young Leader
+      company: The Scout Association
+      duration: September 2014 - July 2018
+portfolio:
+  filter:
+    - label: Web Dev
+      value: web-dev
